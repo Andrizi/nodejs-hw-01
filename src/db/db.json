@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "a8deb96f-64d5-4a84-8763-f17b6454299a",
+    "name": "Gertrude Green",
+    "phone": "281-332-7526 x3780",
+    "email": "Kris_Hane@yahoo.com",
+    "job": "Central Functionality Manager"
+  },
+  {
+    "id": "ee3b4dec-567b-4f28-81b7-084398e4ecf6",
+    "name": "Cedric Lowe",
+    "phone": "1-548-785-9295 x25821",
+    "email": "Dejah_Rowe53@yahoo.com",
+    "job": "Regional Implementation Developer"
+  },
+  {
+    "id": "b5cb2d9f-978e-4175-bacf-9e0a06d7bbbc",
+    "name": "Ms. Rita Hoeger",
+    "phone": "(839) 556-0345 x32012",
+    "email": "Olin.Mills@hotmail.com",
+    "job": "International Identity Supervisor"
+  },
+  {
+    "id": "3cc88a7e-7e99-4513-98da-b4a616a1cb9f",
+    "name": "Carrie Nader",
+    "phone": "411-709-1690 x8622",
+    "email": "Sophia.Haag@gmail.com",
+    "job": "Dynamic Configuration Coordinator"
+  },
+  {
+    "id": "ac0c19aa-13e1-4d68-9752-3b8a6994483d",
+    "name": "Jonathan Champlin",
+    "phone": "1-784-582-8166 x87937",
+    "email": "Carmela21@hotmail.com",
+    "job": "District Branding Strategist"
+  }
+]
